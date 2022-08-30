@@ -1,7 +1,18 @@
-body{
-    
+.container{
+    height: 650px;
+    width: 65%;
   background-image: url(/src/assets/images/img2.png);   
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
+  background-position:absolute;
+}
+
+img{
+  border-radius: 90%;
+}
+h1{
+  padding: 30px;
+  margin:10px ;
+  text-align: justify;
+  font-size: 50px;color: aliceblue;
 }
